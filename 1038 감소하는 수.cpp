@@ -30,6 +30,7 @@ int main() {
     else if(n > 1022) {cout<<-1; return 0;}
     func(0);
 }
+
 /*
 풀이
 

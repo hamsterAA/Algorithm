@@ -60,6 +60,7 @@ int main() {
     if(!avil || mx == 0 || scheck == 0 || kcheck < 2) cout<<-1;
     else cout<<mx;
 }
+
 /*
 풀이
 누적합으로 배열에 S는 +2, K는 -1로 계산한다.

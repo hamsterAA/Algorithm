@@ -2,6 +2,7 @@
 https://www.acmicpc.net/problem/15656
 백준 15656 이름 N과 M (7)
 */
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
